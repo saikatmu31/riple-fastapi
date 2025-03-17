@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+motor
+openai
+transformers
+torch
+sentence-transformers
+python-dotenv
+lama-cpp-python
